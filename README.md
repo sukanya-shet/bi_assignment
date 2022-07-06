@@ -1,6 +1,8 @@
 # UI of a food delivery app
+UI created in Flutter.
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/72228647/177610790-6a90acb1-e804-45c6-a083-f3f0b582aef4.png)
+
 
 ## Getting Started
 
