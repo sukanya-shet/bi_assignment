@@ -1,4 +1,4 @@
-# bi_assignment
+# UI of a food delivery app
 
 A new Flutter project.
 
